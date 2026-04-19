@@ -34,12 +34,12 @@ Each module part includes:
 
 ## 📂 Modules
 
-* 📘 [Module 1: Cyber-Landscape](modules/Module_1_Cyber-Landscape/INDEX.md)
-* 📘 [Module 2: Cyber-Threats](modules/Module_2_Cyber-Threats/INDEX.md)
-* 📘 [Module 3: Cyberattack Types and Techniques](modules/Module_3_Cyberattack_Types/INDEX.md)
-* 📘 [Module 4: Cybersecurity Models & Design Principles](modules/Module_4_Cybersecurity_Models/INDEX.md)
-* 📘 [Module 5: Artificial Intelligence in Cybersecurity](modules/Module_5_AI_in_Cybersecurity/INDEX.md)
-* 📘 [Module 6: Security Operating Platform](modules/Module_6_Security_Operating_Platform/INDEX.md)
+* 🌐 [Module 1: Cyber-Landscape](modules/Module_1_Cyber-Landscape/INDEX.md)
+* 🎯 [Module 2: Cyber-Threats](modules/Module_2_Cyber-Threats/INDEX.md)
+* 💣 [Module 3: Cyberattack Types and Techniques](modules/Module_3_Cyberattack_Types/INDEX.md)
+* 🏗️ [Module 4: Cybersecurity Models & Design Principles](modules/Module_4_Cybersecurity_Models/INDEX.md)
+* 🤖 [Module 5: Artificial Intelligence in Cybersecurity](modules/Module_5_AI_in_Cybersecurity/INDEX.md)
+* 🛡️ [Module 6: Security Operating Platform](modules/Module_6_Security_Operating_Platform/INDEX.md)
 
 ---
 

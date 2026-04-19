@@ -30,6 +30,6 @@
 
 - [Topic 7: Bots & Botnets](Topic_7_Bots_&_Botnets_342c8d2afea28170929fe8393fe7d40d.md)
 
-- [Topic 8: WildFire (AI-Based Malware Detection System)](Topic_8_WildFire_AI-Based_Malware_Detection_Syste_342c8d2afea281dea464e1bd6f54fc21.md)
+- [Topic 8: WildFire (AI-Based Malware Detection System)](Topic_8_WildFire_Malware_Detection.md)
 
 - [📑 Revision Part 2](Revision_Part_2.md.md)

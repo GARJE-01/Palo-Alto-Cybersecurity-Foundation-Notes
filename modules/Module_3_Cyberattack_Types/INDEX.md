@@ -16,7 +16,7 @@
 
 - [Topic 4: Advanced Malware Features](Topic_4_Advanced_Malware_Features_342c8d2afea28159ae04e6f77dfa9f6e.md)
 
-- [📑 Revision Part 1](%F0%9F%93%91%20Module%203%20Part%201%20%E2%80%94%20Revision%20&%20Practice%20342c8d2afea281e097e2ce17c956948f.md.md)
+- [📑 Revision Part 1](Revision_Part_1.md.md)
 
 ---
 
@@ -26,10 +26,10 @@
 
 - [Topic 5: Vulnerabilities & Exploits](Topic_5_Vulnerabilities_&_Exploits_342c8d2afea281ce83c1cefc58f89538.md)
 
-- [Topic 6: Business Email Compromise (BEC)](Topic%206%20Business%20Email%20Compromise%20(BEC)%20342c8d2afea281948433df488e7c0277.md)
+- [Topic 6: Business Email Compromise (BEC)](Topic_6_Business_Email_Compromise_(BEC)_342c8d2afea281948433df488e7c0277.md)
 
-- [Topic 7: Bots & Botnets](Topic%207%20Bots%20&%20Botnets%20342c8d2afea28170929fe8393fe7d40d.md)
+- [Topic 7: Bots & Botnets](Topic_7_Bots_&_Botnets_342c8d2afea28170929fe8393fe7d40d.md)
 
-- [Topic 8: WildFire (AI-Based Malware Detection System)](Topic%208%20WildFire%20(AI-Based%20Malware%20Detection%20Syste%20342c8d2afea281dea464e1bd6f54fc21.md)
+- [Topic 8: WildFire (AI-Based Malware Detection System)](Topic_8_WildFire_AI-Based_Malware_Detection_Syste_342c8d2afea281dea464e1bd6f54fc21.md)
 
-- [📑 Revision Part 2](%F0%9F%93%91%20Module%203%20Part%202%20%E2%80%94%20Revision%20&%20Practice%20342c8d2afea281deb688e5bf020dfc7d.md.md)
+- [📑 Revision Part 2](Revision_Part_2.md.md)

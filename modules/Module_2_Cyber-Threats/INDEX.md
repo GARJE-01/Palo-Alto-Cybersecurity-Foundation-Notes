@@ -14,7 +14,7 @@ This section covers who attackers are, why they attack, and how modern attacks w
 
 - [Topic 2: Attacker Motivations](Topic_2_Attacker_Motivations_(Why_they_attack)_341c8d2afea28138b258d3051e4a59d8.md)
 
-- [Topic 3: Modern Cyberattack Strategy](Topic_3_Modern_Cyberattack_Strategy_(Low_&_Slow_Attacks)_341c8d2afea281f5b84ae4ff3261a264.md)
+- [Topic 3: Modern Cyberattack Strategy](Topic_3_Modern_Cyberattack_Strategy.md)
 
 - [Topic 4: Cyberattack Lifecycle (Kill Chain)](Topic_4_Cyberattack_Lifecycle_(Kill_Chain)_341c8d2afea28141aaa5f2cc0dd36b56.md)
 

@@ -1,202 +1,37 @@
-# Module 6 Part 1 - Revision & Practice
+# 📂 Module 6 — Security Operating Platform
 
-> Security Operating Platform: Complete Part 1 Review
-> 
-
----
-
-## REVISION CHECKLIST
-
-### Topic 1: Security Operating Platform
-
-- Definition: Complete integrated security system
-- Protects: Network, Cloud, Endpoints, Applications
-- Solves: Siloed tools problem
-- Provides: Full visibility
-
-### Topic 2: 4 Key Capabilities
-
-- Full Visibility (who, what, where)
-- Reduce Attack Surface (limit access)
-- Prevent Known Threats (block malware)
-- Detect Unknown Threats (catch zero-days)
-
-### Topic 3: NGFW
-
-- Inspects ALL traffic
-- Application-based (not port-based)
-- Deep inspection
-- Intelligent decisions
-
-### Topic 4: NGFW Components
-
-- App-ID: Identifies applications
-- User-ID: Identifies users
-- Content-ID: Scans for threats
-
-### Topic 5: Zero Trust Model
-
-- Trust NO ONE
-- Verify EVERYTHING
-- Least privilege access
-- Continuous monitoring
+> Integrated security platform protecting network, cloud, endpoints, and applications with full visibility and automation
 
 ---
 
-## KEY QUESTIONS
+## Part 1: Security Operating Platform Core
 
-### Q1: Security Platform Purpose
+### Topics Covered:
 
-What is a Security Operating Platform?
+- [Topic 1: Security Operating Platform (Core Idea)](Topic_1_Security_Operating_Platform_(Core_Idea)_346c8d2afea281208c22cf223e6409e9.md)
 
-Answer: Complete integrated system protecting network, cloud, endpoints, apps with visibility and automation
+- [Topic 2: 4 Key Capabilities](Topic_2_4_Key_Capabilities_346c8d2afea28126af97f99a0c207389.md)
 
-### Q2: 4 Capabilities
+- [Topic 3: NGFW (Next Generation Firewall)](Topic_3_NGFW_(Next_Generation_Firewall)_346c8d2afea281ce9ef4e5a58f24db7c.md)
 
-Name the 4 key capabilities.
+- [Topic 4: NGFW Components (App-ID, User-ID, Content-ID)](Topic_4_NGFW_Components_(App-ID,_User-ID,_Content-_346c8d2afea2816f8116e9aafb880f6a.md)
 
-Answer: Visibility, Reduce Attack Surface, Prevent Known Threats, Detect Unknown Threats
+- [Topic 5: Zero Trust Model](Topic_5_Zero_Trust_Model_346c8d2afea2818d8b6bca0e179678a5.md)
 
-### Q3: NGFW Difference
-
-How is NGFW different from old firewalls?
-
-Answer: NGFW inspects applications (not just ports), provides full visibility, uses AI/ML for threat detection
-
-### Q4: Components
-
-What do App-ID, User-ID, Content-ID do?
-
-Answer: App-ID identifies apps, User-ID identifies users, Content-ID scans for threats
-
-### Q5: Zero Trust
-
-What is Zero Trust?
-
-Answer: Trust nothing, verify everything - applies to all users, devices, traffic
+- [📑 Module 6 Part 1 - Revision & Practice](Revision_Part_1.md(2).md)
 
 ---
 
-## COMPARISON TABLES
+## Part 2: Cloud Security & Configuration
 
-### Old Firewall vs NGFW
+### Topics Covered:
 
-| Aspect | Old Firewall | NGFW |
-| --- | --- | --- |
-| Inspection | Port-based | Application-based |
-| Visibility | Limited | Full |
-| Filtering | Basic | Deep |
-| Threats | Known only | Known + Unknown |
+- [Topic 6: Cloud Security (Why Needed)](Topic_6_Cloud_Security_(Why_Needed)_346c8d2afea2818ab922d290c03a9dc4.md)
 
-### Old Security vs Zero Trust
+- [Topic 7: Prisma (Platform Overview)](Topic_7_Prisma_(Platform_Overview)_346c8d2afea281379d22c048d6c8026a.md)
 
-| Aspect | Old | Zero Trust |
-| --- | --- | --- |
-| Trust Model | Trust inside | Trust nothing |
-| Verification | At boundary | Continuous |
-| Access | Broad | Least privilege |
-| Monitoring | Limited | Complete |
+- [Topic 8: Authentication & MFA](Topic_8_Authentication_&_MFA_346c8d2afea2810c872fc3eb534386ae.md)
 
----
+- [Topic 9: Security Zones & DMZ](Topic_9_Security_Zones_&_DMZ_346c8d2afea2811099d3f74b8a3c5e75.md)
 
-## MEMORY TRICKS
-
-"Visibility -> Control -> Prevention -> Detection"
-
-"See User -> See App -> See Content -> Decide"
-
-"App -> User -> Content -> Decision"
-
-"Verify Always, Trust Never"
-
----
-
-## PRACTICE QUESTIONS
-
-### Q1: Purpose
-
-What does Security Operating Platform do?
-
-A) Protects network only
-
-B) Protects network, cloud, endpoints, apps
-
-C) Only detects threats
-
-D) Replaces all security
-
-Answer: B
-
-### Q2: Capabilities
-
-Which is NOT a key capability?
-
-A) Visibility
-
-B) Reduce attack surface
-
-C) Prevent known threats
-
-D) Detect all threats (100%)
-
-Answer: D
-
-### Q3: NGFW
-
-What is NGFW based on?
-
-A) Ports
-
-B) Applications
-
-C) Firewalls
-
-D) Users
-
-Answer: B
-
-### Q4: Components
-
-What identifies users?
-
-A) App-ID
-
-B) Content-ID
-
-C) User-ID
-
-D) Policy-ID
-
-Answer: C
-
-### Q5: Zero Trust
-
-Zero Trust applies to:
-
-A) External users only
-
-B) Cloud only
-
-C) Everyone and everything
-
-D) Remote workers only
-
-Answer: C
-
----
-
-## QUICK EXAM SUMMARY
-
-4 capabilities are CRITICAL for exam
-
-App-ID, User-ID, Content-ID = NGFW basics
-
-Zero Trust = modern security approach
-
-NGFW = more advanced than old firewalls
-
-Full visibility = foundation of security
-
----
-
-Part 1 Complete! Ready for Part 2
+- [📑 Module 6 Part 2 - Revision & Practice](Revision_Part_2.md(2).md)

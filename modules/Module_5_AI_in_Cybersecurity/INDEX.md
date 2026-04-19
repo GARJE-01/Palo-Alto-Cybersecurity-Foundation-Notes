@@ -26,7 +26,7 @@
 
 - [Topic 9: Deep Learning & Neural Networks](Topic_9_Deep_Learning_&_Neural_Networks_346c8d2afea281998ef8f97e73f09179.md)
 
-- [📑 Revision Part 1](Revision_Part_1.md)
+- [📑 Revision Part 1](Revision_Part_1.md.md)
 
 ---
 
@@ -36,7 +36,7 @@
 
 - [Topic 10: UEBA](Topic_10_UEBA_(User_&_Entity_Behavior_Analytics)_346c8d2afea281a9bb2ddd4d456f6fb7.md)
 
-- [Topic 11: SOAR](Topic_11_SOAR_(Security_Orchestration,_Automation__346c8d2afea281c486b3fa1ecbc90222.md)
+- [Topic 11: SOAR](Topic_11_SOAR_%28Security_Orchestration,_Automation__346c8d2afea281c486b3fa1ecbc90222.md)
 
 - [Topic 12: AI in Incident Response & Automation](Topic_12_AI_in_Incident_Response_&_Automation_346c8d2afea281c2aa78e9b4d1c2dde7.md)
 
@@ -44,6 +44,6 @@
 
 - [Topic 14: AI Data Pipeline](Topic_14_AI_Data_Pipeline_346c8d2afea281d8b667cb6d9b87302f.md)
 
-- [Topic 15: AI Risks (False Positives & Hallucinations)](Topic_15_AI_Risks_(False_Positives_&_Hallucination_346c8d2afea281d49ff8ef8d34d08e2f.md)
+- [Topic 15: AI Risks](Topic_15_AI_Risks_%28False_Positives_%26_Hallucination_346c8d2afea281d49ff8ef8d34d08e2f.md)
 
-- [📑 Revision Part 2](Revision_Part_2.md)
+- [📑 Revision Part 2](Revision_Part_2.md.md)

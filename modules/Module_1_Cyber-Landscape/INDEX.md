@@ -22,7 +22,7 @@
 
 - [Topic 7: What Attackers Want](Topic_7_What_Attackers_Want_341c8d2afea2810f9009cb44d680d989.md)
 
-- [Topic 8: Types of Threats](Topic_8_Types_of_Threats_(Disaster_+_Human_+_Techn_341c8d2afea281a792efc4cda8aa7205.md)
+- [Topic 8: Types of Threats](Topic_8_Types_of_Threats_%28Disaster_%2B_Human_%2B_Techn_341c8d2afea281a792efc4cda8aa7205.md)
 
 - [Topic 9: NIST Cybersecurity Framework](Topic_9_NIST_Cybersecurity_Framework_341c8d2afea281d593eaf139ee6f2637.md)
 

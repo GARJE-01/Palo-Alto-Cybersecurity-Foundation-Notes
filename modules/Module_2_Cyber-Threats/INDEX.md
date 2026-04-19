@@ -24,7 +24,7 @@ This section covers who attackers are, why they attack, and how modern attacks w
 
 - [Topic 7: Lessons Learned](Topic_7_Lessons_Learned_from_Cyberattacks_341c8d2afea281e6a0fff32123199279.md)
 
-- [📑 Revision Part 1](Revision_Part_1.mdmd)
+- [📑 Revision Part 1](Revision_Part_1.md.md)
 
 ---
 
@@ -50,4 +50,4 @@ This section covers Wi-Fi security, attacks, malware, and best practices.
 
 - [Topic 15: Cryptomining](Topic_15_Cryptomining_(Cryptojacking_Attack)_342c8d2afea281f49dbcc0b908f5ff97.md)
 
-- [📑 Revision Part 2](Revision_Part_2.mdmd)
+- [📑 Revision Part 2](Revision_Part_2.md.md)

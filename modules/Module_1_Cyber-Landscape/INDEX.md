@@ -28,7 +28,7 @@
 
 - [Topic 10: Basic Security Practices](Topic_10_Basic_Security_Practices_341c8d2afea2818abe7dea674efb4e1b.md)
 
-- [📑 Revision Part 1](Revision_Part_1.md)
+- [📑 Revision Part 1](Revision_Part_1.md.md)
 
 ---
 
@@ -58,4 +58,4 @@
 
 - [Topic 21: Important Regulations](Topic_21_Important_Regulations_341c8d2afea281019e00e32f1c5414e3.md)
 
-- [📑 Revision Part 2](Revision_Part_2.md)
+- [📑 Revision Part 2](Revision_Part_2.md.md)

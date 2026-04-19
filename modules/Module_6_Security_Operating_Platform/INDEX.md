@@ -14,11 +14,11 @@
 
 - [Topic 3: NGFW (Next Generation Firewall)](Topic_3_NGFW_(Next_Generation_Firewall)_346c8d2afea281ce9ef4e5a58f24db7c.md)
 
-- [Topic 4: NGFW Components (App-ID, User-ID, Content-ID)](Topic_4_NGFW_Components_(App-ID,_User-ID,_Content-_346c8d2afea2816f8116e9aafb880f6a.md)
+- [Topic 4: NGFW Components (App-ID, User-ID, Content-ID)](Topic_4_NGFW_Components_%28App-ID,_User-ID,_Content-_346c8d2afea2816f8116e9aafb880f6a.md)
 
 - [Topic 5: Zero Trust Model](Topic_5_Zero_Trust_Model_346c8d2afea2818d8b6bca0e179678a5.md)
 
-- [📑 Module 6 Part 1 - Revision & Practice](Revision_Part_1.md(2).md)
+- [📑 Module 6 Part 1 - Revision & Practice](Revision_Part_1.md.md)
 
 ---
 
@@ -34,4 +34,4 @@
 
 - [Topic 9: Security Zones & DMZ](Topic_9_Security_Zones_&_DMZ_346c8d2afea2811099d3f74b8a3c5e75.md)
 
-- [📑 Module 6 Part 2 - Revision & Practice](Revision_Part_2.md(2).md)
+- [📑 Module 6 Part 2 - Revision & Practice](Revision_Part_2.md.md)

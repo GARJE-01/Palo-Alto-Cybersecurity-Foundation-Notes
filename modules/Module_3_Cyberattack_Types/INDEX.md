@@ -10,11 +10,11 @@
 
 - [Topic 1: What is Malware](Topic_1_What_is_Malware_342c8d2afea28104968acebd4724c528.md)
 
-- [Topic 2: Types of Malware](Topic%202%20Types%20of%20Malware%20342c8d2afea281308d6df2cedc076f8b.md)
+- [Topic 2: Types of Malware](Topic_2_Types_of_Malware_342c8d2afea281308d6df2cedc076f8b.md)
 
-- [Topic 3: Ransomware (Detailed)](Topic%203%20Ransomware%20(Detailed)%20342c8d2afea281e484dbda69285931cf.md)
+- [Topic 3: Ransomware (Detailed)](Topic_3_Ransomware_(Detailed)_342c8d2afea281e484dbda69285931cf.md)
 
-- [Topic 4: Advanced Malware Features](Topic%204%20Advanced%20Malware%20Features%20342c8d2afea28159ae04e6f77dfa9f6e.md)
+- [Topic 4: Advanced Malware Features](Topic_4_Advanced_Malware_Features_342c8d2afea28159ae04e6f77dfa9f6e.md)
 
 - [📑 Revision Part 1](%F0%9F%93%91%20Module%203%20Part%201%20%E2%80%94%20Revision%20&%20Practice%20342c8d2afea281e097e2ce17c956948f.md.md)
 
@@ -24,7 +24,7 @@
 
 ### Topics Covered:
 
-- [Topic 5: Vulnerabilities & Exploits](Topic%205%20Vulnerabilities%20&%20Exploits%20342c8d2afea281ce83c1cefc58f89538.md)
+- [Topic 5: Vulnerabilities & Exploits](Topic_5_Vulnerabilities_&_Exploits_342c8d2afea281ce83c1cefc58f89538.md)
 
 - [Topic 6: Business Email Compromise (BEC)](Topic%206%20Business%20Email%20Compromise%20(BEC)%20342c8d2afea281948433df488e7c0277.md)
 

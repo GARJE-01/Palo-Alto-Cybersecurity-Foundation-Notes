@@ -38,9 +38,9 @@ This section covers Wi-Fi security, attacks, malware, and best practices.
 
 - [Topic 9: Wi-Fi Encryption](Topic_9_Wi-Fi_Encryption_(WEP,_WPA,_WPA2,_WPA3)_341c8d2afea281679a97fda3954cfe44.md)
 
-- [Topic 10: Common Wi-Fi Attacks](Topic_10_Common_Wi-Fi_Attacks_(Evil_Twin_&_Packet_Sniffing)_341c8d2afea281ef8be8f9a879c470a6.md)
+- [Topic 10: Common Wi-Fi Attacks](Topic_10_Common_WiFi_Attacks.md)
 
-- [Topic 11: Advanced Wi-Fi Attacks](Topic_11_Advanced_Wi-Fi_Attacks_(Jasager_&_SSLStrip)_341c8d2afea2814095b7dcc76544071a.md)
+- [Topic 11: Advanced Wi-Fi Attacks](Topic_11_Advanced_WiFi_Attacks.md)
 
 - [Topic 12: Malware Example — Emotet](Topic_12_Malware_Example_—_Emotet_341c8d2afea2818ba959c3696aeb671f.md)
 

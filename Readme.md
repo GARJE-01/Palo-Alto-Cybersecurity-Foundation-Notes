@@ -348,6 +348,3 @@ These notes represent a comprehensive study of the Palo Alto Networks Cybersecur
 
 **Good luck on your cybersecurity journey! 🛡️**
 
----
-
-Made with 📚 by a cybersecurity student

@@ -8,7 +8,7 @@
 
 ### Topics Covered:
 
-- [Topic 1: What is Malware](Topic%201%20What%20is%20Malware%20342c8d2afea28104968acebd4724c528.md)
+- [Topic 1: What is Malware](Topic_1_What_is_Malware_342c8d2afea28104968acebd4724c528.md)
 
 - [Topic 2: Types of Malware](Topic%202%20Types%20of%20Malware%20342c8d2afea281308d6df2cedc076f8b.md)
 
